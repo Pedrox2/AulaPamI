@@ -17,6 +17,7 @@ const styles = StyleSheet.create({
     },
     texto: {
         fontSize: 20,
+        
 
     },
 });
